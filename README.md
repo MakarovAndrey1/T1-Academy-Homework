@@ -1,2 +1,2 @@
-# T1-Academy-Homework
+# T1 Academy Homework
 Материалы по домашнему заданию по курсу "Введение в Docker" от T1.Академии
